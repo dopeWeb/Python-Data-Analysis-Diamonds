@@ -22,7 +22,7 @@ This project is a command-line application for analyzing diamond data from a CSV
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/diamond-analysis-tool.git
+   git clone https://github.com/dopeWeb/Python-Data-Analysis-Diamonds.git
 
 
 2. **Download the requirements.txt:**
